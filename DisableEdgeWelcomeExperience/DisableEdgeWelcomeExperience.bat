@@ -1,4 +1,3 @@
-@echo off
 @Echo Off
 ::Author: Michael Girard
 ::Disables the "Welcome to Windows" Edge window that opens when logging in to a new user the first time
